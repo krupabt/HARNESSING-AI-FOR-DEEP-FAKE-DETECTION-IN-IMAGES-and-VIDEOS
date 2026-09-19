@@ -21,6 +21,7 @@ The system is integrated into a **Flask web application** with a **MySQL databas
 
 
 **Project DEMO**
+
 <img width="377" height="395" alt="home" src="https://github.com/user-attachments/assets/f0e4aa5b-550e-4a02-85ab-ba9f70c94d05" />
 
 
