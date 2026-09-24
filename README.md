@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 The rapid development of Artificial Intelligence and Generative AI has made it possible to create highly realistic manipulated images and videos, commonly known as **deepfakes**.
 
